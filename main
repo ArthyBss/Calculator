@@ -1,0 +1,23 @@
+# calculadora para calcular valores de produtos
+
+n1 = int(input("Digite o valor do produto:")) 
+n2 = int(input("Digite o valor do produto:")) 
+n3 = int(input("Digite o valor do produto:")) 
+n4 = int(input("Digite o valor do produto:")) 
+
+
+soma = n1+n2+n3+n4
+multiplique = n1*n2*n3*n4
+divide = n1/n2/n3/n4
+subtraia = n1-n2-n3-n4
+print ("O resultado é igual", soma)
+print ("O resultado é igual", multiplique)
+print ("O resultado é igual", divide)
+print ("O resultado é igual", subtraia)
+
+
+
+
+
+
+
